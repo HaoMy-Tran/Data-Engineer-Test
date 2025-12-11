@@ -1,6 +1,6 @@
 Thank you for the opportunity to demonstrate my skills for this position.
 
-Below is the explanation for the solution developed for this test. For comprehensive details, including query results, underlying data sources, and the full project structure, please refer to my BigQuery project:
+Below is the explanation for the solution developed for this test. For comprehensive details, including query results, underlying data sources, and the full project structure, please refer to the BigQuery project I have granted access to you.
 
 Project ID: **`data-engineer-test-480006`**
 

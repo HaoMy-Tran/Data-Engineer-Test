@@ -7,7 +7,8 @@ Project ID: **`data-engineer-test-480006`**
 ## 1. Requirements <br>
 <p align="center">
    <br>
-    <img width="4400" height="2475" alt="Picture1" src="https://github.com/user-attachments/assets/fdecde79-b893-4394-8793-540173afc8c2" />
+    <img width="4400" height="2475" alt="Picture1d" src="https://github.com/user-attachments/assets/c5f273c6-9eae-4f6f-bd6b-8ec6970173a7" />
+
 </p>
 
 #### Requirements for phone format <br>

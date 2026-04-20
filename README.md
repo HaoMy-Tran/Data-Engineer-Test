@@ -25,7 +25,7 @@ Project ID: **`data-engineer-test-480006`**
 ## 2. File reading instructions
 ### Dataset <br>
 <p >
-   <br><img width="601" height="227" alt="Screenshot 2025-12-10 170644" src="https://github.com/user-attachments/assets/ec6b0d53-6348-43ea-b8a9-2b788f441eb1" />
+   <img width="753" height="722" alt="image" src="https://github.com/user-attachments/assets/c79c0bfd-f3d8-4a01-b0de-ca1f48af9389" />
 </p> 
 
 ### Data transformation process <br>

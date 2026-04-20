@@ -5,7 +5,7 @@ Project ID: **`data-engineer-test-480006`**
 ## 1. Requirements <br>
 <p align="center">
    <br>
-    <img width="4400" height="2475" alt="Picture1d" src="https://github.com/user-attachments/assets/c5f273c6-9eae-4f6f-bd6b-8ec6970173a7" />
+    <img alt="Picture1d" src="https://github.com/user-attachments/assets/c5f273c6-9eae-4f6f-bd6b-8ec6970173a7" />
 
 </p>
 
@@ -31,7 +31,7 @@ Project ID: **`data-engineer-test-480006`**
 ### Data transformation process <br>
 <p >
    <br>
-    <img width="4419" height="2493" alt="Picture2" src="https://github.com/user-attachments/assets/ccb845f3-93a3-46ad-8c3f-39d02b427b64" />
+    <img alt="Picture2" src="https://github.com/user-attachments/assets/ccb845f3-93a3-46ad-8c3f-39d02b427b64" />
 
 </p> 
 

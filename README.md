@@ -1,7 +1,3 @@
-Below is the explanation for the solution developed for this test. For comprehensive details, including query results, underlying data sources, and the full project structure, please refer to the BigQuery project I have granted access to you.
-
-Project ID: **`data-engineer-test-480006`**
-
 ## 1. Requirements <br>
 <p align="center">
    <br>
